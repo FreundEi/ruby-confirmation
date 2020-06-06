@@ -1,1 +1,1 @@
-puts "私の名前は坂田紘也です。年齢は" + 22.to_s + "歳です。"
+puts "webcamp".upcase
